@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://earthalivect.com'
   name: Earthalivect
-  favicon: 'http://earthalivect.com/wp-content/themes/tisson/images/favicon.ico'
   domain: earthalivect.com
+  url: 'http://earthalivect.com'
+  favicon: 'http://earthalivect.com/wp-content/themes/tisson/images/favicon.ico'
 keywords:
   - soil
   - fertilizers
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://earthalivect.com/business-units/soil-activator/'
 title: Earth Alive I Soil activator
-datePublished: '2016-01-26T21:02:02.829Z'
-dateModified: '2016-01-26T20:58:24.282Z'
+datePublished: '2016-01-26T21:02:22.892Z'
+dateModified: '2016-01-26T21:02:09.666Z'
 sourcePath: _posts/2016-01-26-earth-alive-i-soil-activator.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
