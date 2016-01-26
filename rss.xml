@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AssetManagement]]></title>
+        <description><![CDATA[AssetManagement]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 20:58:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple of Market Discord]]></title>
+            <description><![CDATA[<article><h1>Apple of Market Discord</h1><p>Most of the rough sledding in the U.S. stock market this year has been attributed to the negative effects of "lower for longer" oil prices and the slowing of the Chinese economy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d85d3908794640b468ebb7efbda65cbcfda00f3a.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/gadfly/articles/2016-01-26/apple-not-china-or-oil-is-biggest-drag-on-the-stock-market</link>
+            <guid isPermaLink="false">016341c3-48c8-4c01-9525-ec10388f65f6</guid>
+            <pubDate>Tue, 26 Jan 2016 20:58:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
