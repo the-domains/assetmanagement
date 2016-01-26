@@ -1,7 +1,7 @@
 name: AssetManagement
 favicon: null
-layout_spectrum: 0.10261415736749768
-typography_spectrum: 0.9827332287095487
+layout_spectrum: 0.59085
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.4000001042149961
-  lightness: 0.3624774250201881
-  saturation: 0.5721551473252475
-  rhythmicContrast: 0.8802463987376541
+  brandStrength: 0.25
+  lightness: 0.3125
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
