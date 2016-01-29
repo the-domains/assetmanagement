@@ -16,7 +16,7 @@ keywords:
   - earth
   - agricultural
 description: 'A NATURAL AND POWERFUL BIOFERTILIZER FOR HEALTHIER SOIL AND STRONGER PLANTS FROM THE ROOTS UP. APPROVED INPUT FOR ORGANIC AGRICULTURE REGISTRATION NO. 2014052A, CANADA FERTILIZERS ACT http://www.inspection.gc.ca Earth Alive Soil Activator TM is a patent-pending biofertilizer and biostimulant designed for organic and conventional agriculture.'
-datePublished: '2016-01-29T15:47:03.603Z'
+datePublished: '2016-01-29T15:47:03.673Z'
 dateModified: '2016-01-29T15:47:01.008Z'
 author: []
 related: []
