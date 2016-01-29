@@ -4,8 +4,15 @@
         <description><![CDATA[Simon-Pierre Jarry - Gestionnaire de portefeuille chez 3Macs]]></description>
         <link>https://thegrid.ai/assetmanagement/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 15:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 15:44:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/assetmanagement/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iPad - Apple (CA)]]></title>
+            <description><![CDATA[<article><h1>iPad - Apple (CA)</h1><p>Apple (Canada) - Discover the world of iPad. Introducing iPad Pro and the iPad mini 4. Visit the Apple site to learn, buy and get support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32bd143c1cffe087256fab4990a1fb3182dc9041.jpg"></article>]]></description>
+            <link>https://thegrid.ai/assetmanagement/ipad-apple-ca/index.html</link>
+            <guid isPermaLink="false">b350dda6-6ce3-4f31-9c2c-1f09f0e5b3b6</guid>
+            <pubDate>Fri, 29 Jan 2016 15:43:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Simon-Pierre Jarry, CIM]]></title>
             <description><![CDATA[<article><h1>Simon-Pierre Jarry, CIM</h1><p>Simon-Pierre Jarry, Gestionnaire de portefeuille avec 3Macs</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6920b6e7ecd4ebf9900ce901c0e7b922d2f78209.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.bio-amber.com/bioamber/en</link>
             <guid isPermaLink="false">18e9f553-fc90-40f7-b4a0-fd7787d9e799</guid>
             <pubDate>Tue, 26 Jan 2016 20:59:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asian Stock Futures Signal Retreat Amid Resumption of Oil Slump]]></title>
-            <description><![CDATA[<article><h1>Asian Stock Futures Signal Retreat Amid Resumption of Oil Slump</h1><p>Asian stocks were poised to succumb to the global retreat that has already claimed equities in Europe and the U.S., with oil lingering back below $30 a barrel and anxiety heightened ahead of Japanese and American central bank meetings later this week.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/611606aad2a615fde2e87528a8686877db541ab4.png"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-01-25/asian-stock-futures-signal-retreat-amid-resumption-of-oil-slump</link>
-            <guid isPermaLink="false">d97078b6-f857-4da7-9627-eb42befd821b</guid>
-            <pubDate>Tue, 26 Jan 2016 20:58:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
