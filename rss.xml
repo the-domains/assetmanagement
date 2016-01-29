@@ -4,7 +4,7 @@
         <description><![CDATA[Simon-Pierre Jarry - Gestionnaire de portefeuille chez 3Macs]]></description>
         <link>https://thegrid.ai/assetmanagement/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 15:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 15:44:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/assetmanagement/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Simon-Pierre Jarry, CIM]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 26 Jan 2016 21:02:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[World's Largest Professional Network | LinkedIn]]></title>
+            <description><![CDATA[<article><h1>World's Largest Professional Network | LinkedIn</h1><p>400 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.</p></article>]]></description>
+            <link>https://thegrid.ai/assetmanagement/worlds-largest-professional-network-or-linkedin/index.html</link>
+            <guid isPermaLink="false">2422bb5e-8fc5-4001-925d-ad2c63a057f5</guid>
+            <pubDate>Fri, 29 Jan 2016 15:43:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meagan Duhamel - KRONOBAR]]></title>
-            <description><![CDATA[<article><h1>Meagan Duhamel - KRONOBAR</h1><p>Meagan Duhamel (née le 8 Décembre 1985) représente le Canada en patinage artistique de couple. Avec son partenaire Eric Radford, elle est la championne mondiale 2015!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/241f92752b8d19a866712f563a40bbf3ae2ecb6b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Meagan Duhamel - KRONOBAR</h1><p>Meagan Duhamel (née le 8 Décembre 1985) représente le Canada en patinage artistique de couple. Avec son partenaire Eric Radford, elle est la championne mondiale 2015!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4edba15c9d4538edb133f457a0e8c1cd1b69173a.jpg"></article>]]></description>
             <link>http://www.kronobar.com/portfolio-view/meagan-duhamel/?lang=fr&amp;v=3a1e0b205d31</link>
             <guid isPermaLink="false">5b10d030-abf5-4f4b-91cd-4819330fb69a</guid>
             <pubDate>Fri, 29 Jan 2016 15:43:04 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Asian Stock Futures Signal Retreat Amid Resumption of Oil Slump</h1><p>Asian stocks were poised to succumb to the global retreat that has already claimed equities in Europe and the U.S., with oil lingering back below $30 a barrel and anxiety heightened ahead of Japanese and American central bank meetings later this week.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/611606aad2a615fde2e87528a8686877db541ab4.png"></article>]]></description>
             <link>http://www.bloomberg.com/news/articles/2016-01-25/asian-stock-futures-signal-retreat-amid-resumption-of-oil-slump</link>
             <guid isPermaLink="false">d97078b6-f857-4da7-9627-eb42befd821b</guid>
-            <pubDate>Tue, 26 Jan 2016 20:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple of Market Discord]]></title>
-            <description><![CDATA[<article><h1>Apple of Market Discord</h1><p>Most of the rough sledding in the U.S. stock market this year has been attributed to the negative effects of "lower for longer" oil prices and the slowing of the Chinese economy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bddd7e543bc394f5ad8986c43a43511341b0e42.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/gadfly/articles/2016-01-26/apple-not-china-or-oil-is-biggest-drag-on-the-stock-market</link>
-            <guid isPermaLink="false">016341c3-48c8-4c01-9525-ec10388f65f6</guid>
             <pubDate>Tue, 26 Jan 2016 20:58:46 GMT</pubDate>
         </item>
     </channel>
