@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.bio-amber.com'
-  name: Bio-amber
-  favicon: 'https://www.bio-amber.com/favicon.ico'
-  domain: www.bio-amber.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: true
 keywords:
   - bioamber
   - succinic
@@ -18,17 +16,21 @@ keywords:
   - plymouth
   - '514'
 description: 'BioAmber is a sustainable chemicals company. Its proprietary technology platform combines industrial biotechnology and chemical catalysis to convert renewable feedstock into chemicals for use in a wide variety of everyday products including plastics, resins, food additives and personal care products.'
-inLanguage: en
+datePublished: '2016-02-05T13:06:19.485Z'
+dateModified: '2016-01-29T15:30:47.178Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.bio-amber.com/bioamber/en'
 title: 'BioAmber is a Sustainable Chemicals Company Offering Choice, Naturally'
-datePublished: '2016-01-26T20:59:01.045Z'
-dateModified: '2016-01-26T20:55:09.743Z'
 sourcePath: _posts/2016-01-26-bioamber-is-a-sustainable-chemicals-company-offering-choice.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Bio-amber
+  domain: www.bio-amber.com
+  url: 'https://www.bio-amber.com'
+  favicon: 'https://www.bio-amber.com/favicon.ico'
+url: bioamber-is-a-sustainable-chemicals-company-offering-choice/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
