@@ -1,7 +1,7 @@
-name: AssetManagement
+name: Asset Management
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.50722
+layout_spectrum: 0.76821
+typography_spectrum: 0.74804
 title: Simon-Pierre Jarry - Gestionnaire de portefeuille chez 3Macs
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#659aba'
     - '#a6c5d7'
   brandStrength: 0
-  lightness: 0.3125
-  saturation: 0.5625
-  rhythmicContrast: 0.75
+  lightness: 0.6875
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
