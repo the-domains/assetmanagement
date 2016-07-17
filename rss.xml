@@ -4,8 +4,15 @@
         <description><![CDATA[Simon-Pierre Jarry - Gestionnaire de portefeuille chez 3Macs]]></description>
         <link>https://thegrid.ai/assetmanagement/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 02:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 02:37:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/assetmanagement/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iPad Pro - Apple (CA)]]></title>
+            <description><![CDATA[<article><h1>iPad Pro - Apple (CA)</h1><p>iPad Pro delivers epic power, now in 12.9-inch and 9.7-inch sizes. Discover the A9X Chip, Advanced Retina display, 12MP iSight camera and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48b8253b53647dc138f7206a51d0bec4/noop.jpg?input=http%3A%2F%2Fimages.apple.com%2Fca%2Fipad-pro%2Fimages%2Fog.jpg%3F201606241039"></article>]]></description>
+            <link>http://www.apple.com/ca/ipad-pro/</link>
+            <guid isPermaLink="false">bc0577a0-24ee-41d7-8d1e-19f243fb47be</guid>
+            <pubDate>Sun, 17 Jul 2016 02:36:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BioAmber is a Sustainable Chemicals Company Offering Choice, Naturally]]></title>
             <description><![CDATA[<article><h1>BioAmber is a Sustainable Chemicals Company Offering Choice, Naturally</h1><p>BioAmber is a sustainable chemicals company. Its proprietary technology platform combines industrial biotechnology and chemical catalysis to convert renewable feedstock into chemicals for use in a wide variety of everyday products including plastics, resins, food additives and personal care products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5942435bbcc92c36bbb4463de2198dd561a9979e.png"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>http://www.3macs.com/simon.jarry/</link>
             <guid isPermaLink="false">2b6f5314-c9cf-4d34-8937-3b7d8f4f6db1</guid>
             <pubDate>Tue, 26 Jan 2016 21:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iPad Pro - Apple (CA)]]></title>
-            <description><![CDATA[<article><h1>iPad Pro - Apple (CA)</h1><p>iPad Pro delivers epic power, now in 12.9-inch and 9.7-inch sizes. Discover the A9X Chip, Advanced Retina display, 12MP iSight camera and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48b8253b53647dc138f7206a51d0bec4/noop.jpg?input=http%3A%2F%2Fimages.apple.com%2Fca%2Fipad-pro%2Fimages%2Fog.jpg%3F201606241039"></article>]]></description>
-            <link>http://www.apple.com/ca/ipad-pro/</link>
-            <guid isPermaLink="false">bc0577a0-24ee-41d7-8d1e-19f243fb47be</guid>
-            <pubDate>Sun, 17 Jul 2016 02:36:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World's Largest Professional Network | LinkedIn]]></title>
