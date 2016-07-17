@@ -29,10 +29,10 @@ app_links:
     app_store_id: '375380948'
 isBasedOnUrl: 'http://www.apple.com/ca/ipad-pro/'
 title: iPad Pro - Apple (CA)
-datePublished: '2016-07-17T02:36:44.151Z'
-dateModified: '2016-07-17T02:35:09.176Z'
-starred: false
+datePublished: '2016-07-17T02:36:56.675Z'
+dateModified: '2016-07-17T02:36:56.075Z'
 sourcePath: _posts/2016-07-17-ipad-pro-apple-ca.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
