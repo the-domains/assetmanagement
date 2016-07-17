@@ -4,7 +4,7 @@
         <description><![CDATA[Simon-Pierre Jarry - Gestionnaire de portefeuille chez 3Macs]]></description>
         <link>https://thegrid.ai/assetmanagement/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 02:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 02:36:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/assetmanagement/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BioAmber is a Sustainable Chemicals Company Offering Choice, Naturally]]></title>
@@ -28,6 +28,13 @@
             <pubDate>Tue, 26 Jan 2016 21:02:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[iPad Pro - Apple (CA)]]></title>
+            <description><![CDATA[<article><h1>iPad Pro - Apple (CA)</h1><p>iPad Pro delivers epic power, now in 12.9-inch and 9.7-inch sizes. Discover the A9X Chip, Advanced Retina display, 12MP iSight camera and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48b8253b53647dc138f7206a51d0bec4/noop.jpg?input=http%3A%2F%2Fimages.apple.com%2Fca%2Fipad-pro%2Fimages%2Fog.jpg%3F201606241039"></article>]]></description>
+            <link>http://www.apple.com/ca/ipad-pro/</link>
+            <guid isPermaLink="false">bc0577a0-24ee-41d7-8d1e-19f243fb47be</guid>
+            <pubDate>Sun, 17 Jul 2016 02:36:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[World's Largest Professional Network | LinkedIn]]></title>
             <description><![CDATA[<article><h1>World's Largest Professional Network | LinkedIn</h1><p>400 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.</p></article>]]></description>
             <link>https://thegrid.ai/assetmanagement/worlds-largest-professional-network-or-linkedin/index.html</link>
@@ -49,17 +56,17 @@
             <pubDate>Tue, 26 Jan 2016 20:59:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tesla shares have been crushed this year]]></title>
-            <description><![CDATA[<article><h1>Tesla shares have been crushed this year</h1><p>Tesla shares are getting clobbered: they're down almost 20% this year after dropping another 3% Tuesday to $191. That's a far cry from their 2014 peak of nearly $300. The latest dip is being chalked up to a research note from JP Morgan's Ryan Brinkman, in which his team reduced its expectations for Tesla's fourth-quarter earnings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e9a167b955b38ed90356ffd0f8716bfadd6105f.jpg"></article>]]></description>
-            <link>http://www.businessinsider.com/tesla-shares-have-been-crushed-this-year-2016-1</link>
-            <guid isPermaLink="false">862121ea-41c4-421b-8915-7983a91e9598</guid>
-            <pubDate>Tue, 26 Jan 2016 20:59:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SOIL ACTIVATOR IMPROVES CROP YIELDS IN ORGANIC BANANA PRODUCTION]]></title>
             <description><![CDATA[<article><h1>SOIL ACTIVATOR IMPROVES CROP YIELDS IN ORGANIC BANANA PRODUCTION</h1><p>Montreal, Quebec, Canada, January 18th, 2015 - Earth Alive Clean Technologies Inc. (CSE: EAC) ("Earth Alive" or the "Company") is pleased to report significant increases in banana crop yields by a factor of 100% to 200%, over the regional average, for producers using Soil ActivatorTM.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c2eb51c09e22515a6606c2af938d99fd5a96070.jpg"></article>]]></description>
             <link>http://earthalivect.com/banana-production/</link>
             <guid isPermaLink="false">96a8e550-91c4-4a06-893c-9b28b2bba870</guid>
+            <pubDate>Tue, 26 Jan 2016 20:59:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla shares have been crushed this year]]></title>
+            <description><![CDATA[<article><h1>Tesla shares have been crushed this year</h1><p>Tesla shares are getting clobbered: they're down almost 20% this year after dropping another 3% Tuesday to $191. That's a far cry from their 2014 peak of nearly $300. The latest dip is being chalked up to a research note from JP Morgan's Ryan Brinkman, in which his team reduced its expectations for Tesla's fourth-quarter earnings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e9a167b955b38ed90356ffd0f8716bfadd6105f.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/tesla-shares-have-been-crushed-this-year-2016-1</link>
+            <guid isPermaLink="false">862121ea-41c4-421b-8915-7983a91e9598</guid>
             <pubDate>Tue, 26 Jan 2016 20:59:01 GMT</pubDate>
         </item>
     </channel>
